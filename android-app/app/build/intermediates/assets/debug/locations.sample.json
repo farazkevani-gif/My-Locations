@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "loc_1",
+    "name": "Central Library Archive",
+    "address": "120 Knowledge Way, Sector 4",
+    "mapsUrl": "https://maps.google.com/?q=24.8607,67.0011",
+    "latitude": 24.8607,
+    "longitude": 67.0011,
+    "notes": "Reference books on 2nd floor.",
+    "favorite": true,
+    "createdAt": "2026-01-10T08:00:00.000Z",
+    "updatedAt": "2026-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "loc_2",
+    "name": "Riverside Botanical Nursery",
+    "address": "Plot 45, Green Riverbank Road",
+    "mapsUrl": "https://maps.google.com/?q=25.3960,68.3578",
+    "latitude": 25.3960,
+    "longitude": 68.3578,
+    "notes": "Good indigenous shade trees.",
+    "favorite": false,
+    "createdAt": "2026-01-15T10:30:00.000Z",
+    "updatedAt": "2026-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "loc_3",
+    "name": "Highway Service Station East",
+    "address": "National Highway KM 88",
+    "mapsUrl": "https://maps.google.com/?q=26.2440,68.4100",
+    "latitude": 26.2440,
+    "longitude": 68.4100,
+    "notes": "24/7 tire service and reliable fuel.",
+    "favorite": false,
+    "createdAt": "2026-02-01T14:15:00.000Z",
+    "updatedAt": "2026-02-01T14:15:00.000Z"
+  },
+  {
+    "id": "loc_4",
+    "name": "Old City Spice Market",
+    "address": "Bazaar Quarter, Lane 3",
+    "mapsUrl": "https://maps.google.com/?q=27.5580,68.8570",
+    "latitude": 27.5580,
+    "longitude": 68.8570,
+    "notes": "Wholesale spices. Park outside.",
+    "favorite": true,
+    "createdAt": "2026-02-12T11:00:00.000Z",
+    "updatedAt": "2026-02-14T09:20:00.000Z"
+  },
+  {
+    "id": "loc_5",
+    "name": "Technical Equipment Depot",
+    "address": "Industrial Estate, Warehouse 12B",
+    "mapsUrl": "https://maps.google.com/?q=24.9050,67.1100",
+    "latitude": 24.9050,
+    "longitude": 67.1100,
+    "notes": "PoE injectors, antennas, and network cables.",
+    "favorite": false,
+    "createdAt": "2026-03-01T16:45:00.000Z",
+    "updatedAt": "2026-03-01T16:45:00.000Z"
+  }
+]
